@@ -1,0 +1,110 @@
+
+.wrapper {
+    width:100%; height:auto;
+    padding: 0;
+}
+
+#header {
+    width:100%; min-height: 100px;   
+   
+}
+
+#main-container {
+    width: 70%; display: inline-block;
+}
+#sidebar {
+    width:29%; min-height: 600px;
+    display: inline-block;
+    background-color:gold; 
+    color: black;
+    vertical-align: top;
+
+}
+#sidebar h3 {
+    background-color: black;
+    color: gold;
+    height: 30px;
+    text-align: center;
+    margin-top: 0;
+    text-transform: uppercase;
+    padding-top: 5px;
+}
+img {
+    width: 85%;
+    height: auto;
+    padding: 10px;
+    align-content: center;
+    border-radius: 50%;
+  }
+#education {
+    width: 100%; min-height: 200px;
+}
+
+#experience {
+    width:100%; min-height: 200px;
+}
+
+#references {
+    width:100%; min-height: 200px;
+}
+
+
+#profile {
+    width:100%; min-height: 100px;
+}
+
+#contact {
+    width:100%; min-height: 300px
+}
+#contact p {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    margin-top: -20px;
+
+}
+#about {
+    width:100%; min-height: 200px
+}
+#about p {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    margin-top: -20px;
+    padding-top: 10px;padding-bottom: 10px;
+    min-height:300px;
+    
+}
+
+#hobbies {
+    width:100%; min-height: 200px
+}
+#hobbies p{
+    border-radius: 150%;
+}
+
+.date {
+    width: 29%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.description {
+    width: 68%;
+    display: inline-block;
+    height: 100px;
+    vertical-align: top;
+}
+.title {
+    text-transform: uppercase;
+    display: block;
+    font-weight: bold;
+}  
+i {color:black;}
+body {
+    background-color: rgb(244, 248, 248);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
