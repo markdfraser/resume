@@ -19,14 +19,14 @@
 #sidebar {
     width:29%; min-height: 600px;
     display: inline-block;
-    background-color:gold; 
+    background-color:rgb(3, 252, 140); 
     color: black;
     vertical-align: top;
 
 }
 #sidebar h3 {
     background-color: black;
-    color: gold;
+    color: rgb(3, 252, 140);
     height: 30px;
     text-align: center;
     margin-top: 0;
@@ -116,16 +116,16 @@ img {
     font-weight: bold;
 }  
 #main-container i {
-    color:gold;
+    color:rgb(3, 252, 140);
 }
 hr {
-    color: gold;
+    color: rgb(3, 252, 140);
 }
 .name{
-    color: gold;
+    color: rgb(3, 252, 140);
 }
 .underline{
-    border-bottom:gold solid 2px;
+    border-bottom:rgb(3, 252, 140) solid 2px;
 }
 
 body {
